@@ -1,4 +1,4 @@
-import { Mail, Phone } from "lucide-react";
+import { Phone } from "lucide-react";
 import { Link } from "./ui/link";
 
 export function Footer() {
