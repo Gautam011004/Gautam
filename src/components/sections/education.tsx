@@ -1,4 +1,4 @@
-import { Calendar, GraduationCap } from "lucide-react";
+import { Calendar} from "lucide-react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "../ui/card";
 
 export function EducationSection() {

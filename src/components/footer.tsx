@@ -1,9 +1,7 @@
 import { Mail, Phone } from "lucide-react";
-import { Separator } from "./ui/separator";
 import { Link } from "./ui/link";
 
 export function Footer() {
-    const year = new Date().getFullYear()
 
     return (
         <footer className="border-t py-12 sm:py-16 bg-background" id="contact">
