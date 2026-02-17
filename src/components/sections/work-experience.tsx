@@ -35,7 +35,6 @@ export function WorkExperienceSection() {
                                     <Badge variant="outline">TypeScript</Badge>
                                     <Badge variant="outline">Next.js</Badge>
                                     <Badge variant="outline">Tailwind CSS</Badge>
-                                    <Badge variant="outline">.Net</Badge>
                                 </div>
                             </CardContent>
                         </Card>

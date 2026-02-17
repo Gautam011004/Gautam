@@ -17,9 +17,6 @@ export function EducationSection() {
                                         <Calendar className="h-4 w-4" />
                                         <span>2022 - 2026</span>
                                     </div>
-                                    <p className="text-sm sm:text-base">
-                                        CGPA : 8.01
-                                    </p>
                                 </CardContent>
                             </Card>
                     </div>
